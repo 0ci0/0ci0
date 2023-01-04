@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0ci0
+- 👋 Hi, I’m Onur.
 - 👀 I'm a designer who start to interested coding and cyber security.
 - 🌱 currently learning python.
 
