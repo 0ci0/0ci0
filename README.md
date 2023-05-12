@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Onur.
 - 👀 I'm a designer who start to interested coding and cyber security.
-- 🌱 currently learning python.
+- 🌱 Always open to learning new things.
 
 <!---
 0ci0/0ci0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
