@@ -3,10 +3,9 @@
 - 👋 Hi, I’m Onur
 - :computer: Big tech fan
 - :art: Big fan of art
-- :musical_keyboard: Makes music
 - :books: Always loves reading
 - :movie_camera: Loves slasher movies
-- 👀 interested coding and cyber security
+- 👀 interested rpa, automation, coding
 - 🌱 Always open to learning new things
 
 <!---
